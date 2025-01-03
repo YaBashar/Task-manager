@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+    font-size: 16px; /*Default Font Size */
+    max-width: 100%;
+    overflow: hidden;
+}
+
+
+body {
+    height: 800px;
+    background: #648DE5;
+}
+
+.band {
+    height: 10%;
+    background: #102E4A;
+}
+
+.band h2 {
+    color: #FFF4E9;
+    font-size: 1.5em;
+    text-align: center;
+    padding-top: 20px;
+}
